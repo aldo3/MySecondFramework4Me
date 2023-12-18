@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MySecondFramework4Me_Tests' do
+  pod 'MySecondFramework4Me', :path => '../'
+  
+  
+end
